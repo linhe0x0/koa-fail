@@ -1,2 +1,3 @@
 # koa-fail
-Koa server failing at random. 
+
+Koa middleware which can be configured to fail and increase latency at random.
