@@ -1,5 +1,5 @@
-[![npm](https://img.shields.io/npm/v/comeon.svg)](https://www.npmjs.com/package/comeon)
-[![npm](https://img.shields.io/npm/l/comeon.svg)](https://www.npmjs.com/package/comeon)
+[![npm](https://img.shields.io/npm/v/koa-fail.svg)](https://www.npmjs.com/package/koa-fail)
+[![npm](https://img.shields.io/npm/l/koa-fail.svg)](https://www.npmjs.com/package/koa-fail)
 
 # koa-fail
 
