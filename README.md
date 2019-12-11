@@ -2,6 +2,15 @@
 
 Koa middleware which can be configured to fail and increase latency at random.
 
+## Installation
+
+```sh
+yarn add koa-fail
+
+# Or use npm:
+npm install koa-fail
+```
+
 ## Usage
 
 ```js
