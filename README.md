@@ -1,6 +1,9 @@
+[![npm](https://img.shields.io/npm/v/comeon.svg)](https://www.npmjs.com/package/comeon)
+[![npm](https://img.shields.io/npm/l/comeon.svg)](https://www.npmjs.com/package/comeon)
+
 # koa-fail
 
-Koa middleware which can be configured to fail and increase latency at random.
+🚦Koa middleware which can be configured to fail and increase latency at random.
 
 ## Installation
 
