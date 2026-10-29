@@ -50,9 +50,3 @@ Error rate. Example of 1/3 failures: `?errorRate=3`.
 Type: `Boolean`
 
 Force to enable failure. By default, it is enabled only in the development environment by `process.env.NODE_ENV === 'development'`.
-
----
-
-> [sqrtthree.com](http://sqrtthree.com/) &nbsp;&middot;&nbsp;
-> GitHub [@sqrthree](https://github.com/sqrthree) &nbsp;&middot;&nbsp;
-> Twitter [@sqrtthree](https://twitter.com/sqrtthree)
